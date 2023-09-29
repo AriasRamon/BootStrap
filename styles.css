@@ -1,0 +1,16 @@
+
+.col-sm {
+background-color: lightblue;
+}
+
+.display-4 {
+    border-bottom: solid;
+    border-width: 5px;
+    text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+
